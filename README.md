@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://glitch-invaders.chimske.workers.dev"><b>Play it now</b></a>
+</p>
+
+<p align="center">
   <img src="docs/start-screen.png" alt="Glitch Invaders start screen" width="48%" />
   <img src="docs/gameplay.png" alt="Glitch Invaders gameplay" width="48%" />
 </p>
@@ -37,7 +41,11 @@
 | Shoot | `Space`, `W` or `Up` |
 | Pause | `Esc` |
 
-## Run it
+## Play online
+
+https://glitch-invaders.chimske.workers.dev (no install, works on desktop and touch screens).
+
+## Run it locally
 
 Needs Node 22+.
 
